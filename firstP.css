@@ -1,0 +1,109 @@
+*{
+    font-family: 'Fira Sans',sans-serif ;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 11px;
+    font-weight: bold;
+    
+    
+}
+.box1{
+    margin-left: 300px;
+    
+}
+.box2{
+    margin-right: 300px;
+}
+       
+        
+.main{
+    width: 100%;
+    height: 100px;
+    background: brown;
+    display: flex;
+    justify-content: space-evenly;
+
+    
+}
+.text{
+    width: 80%;
+    margin-top: 5px;
+    text-align: center;
+    color: white;
+    height: 50px;
+    position: absolute;
+    margin-top: 20px;
+    
+    
+}
+.text-2{
+      width: 70%;
+      text-align: center;
+      color: white;
+      height: 50px;
+      position: relative;
+      margin-top: 60px;
+}
+
+.zzz{
+    margin: 20px;
+    width: 10%;
+    color: white;
+
+
+}
+.ukr{
+    margin: 20px;
+    width: 10%;
+    color: white;
+}
+
+.bottom{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 13px;
+    font-weight: bold;
+
+    
+}
+.case-1{
+    margin-left: 300px;
+}
+.case-2{
+    margin-right: 300px;
+}
+.statistik{
+      display: flex;
+      justify-content: space-between;
+
+}
+.place{
+    width: 300px;
+    height: 52px;
+    border: 1px solid black;
+    color: brown;
+    
+}
+.numbers{
+    
+    color: brown;
+}
+
+
+.photo{
+    display: block;
+    width: 200px;
+    height: 100px;
+    
+}
+
+
+
+
